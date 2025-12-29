@@ -42,3 +42,15 @@ captures
 
 # Auto-generated documentation files
 /docs/**/*.md
+
+.editorconfig
+.claude/
+.factory/
+.kiro/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+WARP.md
+.qoderignore
+.cursorignore
+.warpindexignore
